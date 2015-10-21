@@ -1,7 +1,9 @@
 # PerfAdvisor (PERFormance adVISOR)
 
 ## Goal
-- Build a tool which can analyze a system for performance bottlenecks and maybe even give some hints what to do next.
+- Provides an approach to design a tool or system that can analyze & report the bottlenecks.
+- Refer touchstone project that is an attempt to build such a tool.
+- This project should list down the details steps/specs w.r.t the approaches mentioned here by the mentor/original author.
 
 ## Reference
 - https://wiki.freebsd.org/IdeasPage#PerfVisor_.28PERFormance_adVISOR.29
